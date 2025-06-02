@@ -1,0 +1,35 @@
+include: package:flutter_lints/flutter.yaml
+# linter:
+#   rules:
+#     # Style rules
+#     always_put_control_body_on_new_line: false
+#     always_put_required_named_parameters_first: true
+#     require_trailing_commas: true
+#     prefer_relative_imports: true
+#     avoid_empty_else: true
+#     avoid_relative_lib_imports: true
+#     avoid_return_types_on_setters: true
+#     avoid_types_as_parameter_names: true
+#     curly_braces_in_flow_control_structures: true
+#     prefer_single_quotes: true
+#     sort_child_properties_last: true
+
+#     # Error rules
+#     avoid_print: true
+#     avoid_catches_without_on_clauses: false
+
+#     # Usage rules
+#     prefer_interpolation_to_compose_strings: true
+#     depend_on_referenced_packages: false
+#     avoid_unnecessary_containers: true
+#     avoid_unused_constructor_parameters: true
+#     no_logic_in_create_state: true
+#     prefer_const_constructors: true
+#     prefer_const_constructors_in_immutables: true
+#     prefer_const_declarations: true
+#     prefer_const_literals_to_create_immutables: true
+#     prefer_final_fields: true
+#     prefer_final_locals: true
+
+#     # Design rules
+#     avoid_multiple_declarations_per_line: true
